@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @sergiosoftdev2
+- 👀 I’m interested in front-end design
+- 🌱 I’m currently learning Rust
+- 📫 How to reach me
+    -- sergiogarlo12@gmail.com
+- ⚡ Fun fact: I'm also a pianist and writer!
